@@ -80,7 +80,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/advanced-php-crud.git
+gh repo clone Abhishek7880/Advance-Crud-Application
 Import the SQL file into your MySQL database.
 
 Configure db.php with your DB credentials.
